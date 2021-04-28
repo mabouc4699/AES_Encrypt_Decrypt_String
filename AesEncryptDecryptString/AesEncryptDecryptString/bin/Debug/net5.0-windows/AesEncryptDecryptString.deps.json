@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AesEncryptDecryptString/1.0.0": {
+        "runtime": {
+          "AesEncryptDecryptString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AesEncryptDecryptString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
